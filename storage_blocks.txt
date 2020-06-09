@@ -1,0 +1,15 @@
+storage_blocks/aluminum
+storage_blocks/charcoal
+storage_blocks/constantan
+storage_blocks/copper
+storage_blocks/electrum
+storage_blocks/elementium
+storage_blocks/glowstone
+storage_blocks/lead
+storage_blocks/manasteel
+storage_blocks/nickel
+storage_blocks/quartz
+storage_blocks/silver
+storage_blocks/steel
+storage_blocks/terrasteel
+storage_blocks/uranium

@@ -1,0 +1,16 @@
+dyes/black
+dyes/blue
+dyes/brown
+dyes/cyan
+dyes/gray
+dyes/green
+dyes/light_blue
+dyes/light_grey
+dyes/lime
+dyes/magenta
+dyes/orange
+dyes/pink
+dyes/purple
+dyes/red
+dyes/white
+dyes/yellow

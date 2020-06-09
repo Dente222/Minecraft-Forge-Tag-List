@@ -1,0 +1,13 @@
+plates/aluminum
+plates/constantan
+plates/copper
+plates/electrum
+plates/gold
+plates/iron
+plates/iridium
+plates/lead
+plates/nickel
+plates/silver
+plates/steel
+plates/uranium
+plates/tin

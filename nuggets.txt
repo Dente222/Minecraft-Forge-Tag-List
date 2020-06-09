@@ -1,0 +1,11 @@
+nuggets/aluminum
+nuggets/constantan
+nuggets/copper
+nuggets/electrum
+nuggets/lead
+nuggets/nickel
+nuggets/silver
+nuggets/steel
+nuggets/uranium
+nuggets/tin
+nuggets/titanium

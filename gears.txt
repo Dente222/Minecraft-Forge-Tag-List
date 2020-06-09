@@ -1,0 +1,6 @@
+gear/diamond
+gear/gold
+gear/iron
+gear/tin
+gear/copper
+gear/bronze

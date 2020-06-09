@@ -1,0 +1,6 @@
+rods/all_metals
+rods/aluminum
+rods/iron
+rods/steel
+rods/treated_wood
+rods/wooden

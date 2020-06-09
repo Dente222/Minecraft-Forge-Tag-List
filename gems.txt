@@ -1,0 +1,8 @@
+gems/dragonstone
+gems/mana_diamond
+gems/quartz
+gems/smoky_quartz
+gems/ruby
+gems/sapphire
+gems/peridot
+gems/apetite

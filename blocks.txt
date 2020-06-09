@@ -1,0 +1,12 @@
+blocks/smoky_quartz
+blocks/copper
+blocks/tin
+blocks/brass
+blocks/steel
+blocks/uranium
+blocks/lead
+blocks/zinc
+blocks/bronze
+blocks/titanium
+blocks/iridium
+blocks/refined_iron

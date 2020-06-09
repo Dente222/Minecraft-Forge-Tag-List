@@ -1,0 +1,11 @@
+sheetmetals/aluminum
+sheetmetals/constantan
+sheetmetals/copper
+sheetmetals/electrum
+sheetmetals/gold
+sheetmetals/iron
+sheetmetals/lead
+sheetmetals/nickel
+sheetmetals/silver
+sheetmetals/steel
+sheetmetals/uranium
