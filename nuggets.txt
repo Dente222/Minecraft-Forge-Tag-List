@@ -1,6 +1,8 @@
 nuggets/aluminum
+nuggets/brass
 nuggets/constantan
 nuggets/copper
+nuggets/cobalt
 nuggets/electrum
 nuggets/lead
 nuggets/nickel

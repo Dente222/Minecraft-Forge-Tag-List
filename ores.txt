@@ -1,6 +1,7 @@
 ores/aluminum
 ores/apetite
 ores/bauxit
+ores/cobalt
 ores/copper
 ores/crimson_iron
 ores/cinnaber

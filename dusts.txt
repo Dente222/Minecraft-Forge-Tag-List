@@ -1,4 +1,7 @@
 dusts/aluminium
+dusts/ash
+dusts/bauxit
+dusts/coal
 dusts/coal_coke
 dusts/constantan
 dusts/copper
@@ -7,13 +10,13 @@ dusts/gold
 dusts/hop_graphite
 dusts/iron
 dusts/lead
+dusts/mana
 dusts/nickel
 dusts/saltpeter
 dusts/silver
 dusts/steel
 dusts/sulfur
 dusts/uranium
-dusts/mana
-dusts/ahs
-dusts/bauxit
-dusts/coal
+
+
+
