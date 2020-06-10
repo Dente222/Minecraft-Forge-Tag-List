@@ -2,6 +2,7 @@ plates/aluminum
 plates/constantan
 plates/copper
 plates/electrum
+plates/fabricated_iron
 plates/gold
 plates/iron
 plates/iridium
