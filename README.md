@@ -15,8 +15,8 @@ Format here is simple
 subfolder_Name/TagName
 
 Example: 
-forge:ores/copper
-forge:ingots/refined_iron
+forge:ores/copper,
+forge:ingots/refined_iron,
 forge:dusts/coal
 
 sub-folders are made to keep everything clean so, you still can make your tag without a sub folder but it is recommended to place them in specific sub-folders just to prevent duplicated entries.
