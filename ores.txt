@@ -8,6 +8,7 @@ ores/cinnaber
 ores/galena
 ores/iridium
 ores/lead
+ores/magnetite
 ores/monazite
 ores/nickel
 ores/peridot

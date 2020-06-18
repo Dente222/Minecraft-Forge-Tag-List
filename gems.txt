@@ -1,3 +1,4 @@
+gems/bitripentium
 gems/dragonstone
 gems/mana_diamond
 gems/quartz

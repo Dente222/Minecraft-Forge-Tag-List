@@ -1,6 +1,7 @@
 ingots/aluminum
 ingots/brass
 ingots/bronze
+ingots/bitripentium
 ingots/chrome
 ingots/cobalt
 ingots/constantan

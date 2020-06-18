@@ -1,4 +1,6 @@
+forge:beacon_payment
 forge:electrona/machines_all
 forge:electrona/machines
 forge:electrona/cable
 forge:electrona/blue_cable
+forge:ar/tx_blocks
