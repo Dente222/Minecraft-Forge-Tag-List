@@ -1,22 +1,33 @@
 dusts/aluminium
 dusts/ash
 dusts/bauxit
+dusts/bioterium
 dusts/coal
 dusts/coal_coke
 dusts/constantan
 dusts/copper
 dusts/electrum
+dusts/glowtite
 dusts/gold
 dusts/hop_graphite
 dusts/iron
 dusts/lead
+dusts/magnet
+dusts/magnetite
 dusts/mana
+dusts/neon
 dusts/nickel
+dusts/obsidian
+dusts/quantanium
+dusts/retium
 dusts/saltpeter
 dusts/silver
 dusts/steel
 dusts/sulfur
+dusts/tin
 dusts/uranium
+dusts/wakurium
+dusts/zinc
 
 
 

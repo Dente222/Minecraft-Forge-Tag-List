@@ -1,6 +1,7 @@
 ingots/aluminum
 ingots/brass
 ingots/bronze
+ingots/bioterium
 ingots/bitripentium
 ingots/chrome
 ingots/cobalt
@@ -8,24 +9,36 @@ ingots/constantan
 ingots/copper
 ingots/electrum
 ingots/elementium
+ingots/gadolinium
+ingots/glowtite
 ingots/gold
 ingots/hop_graphite
 ingots/invar
 ingots/iridium
 ingots/iron
 ingots/lead
+ingots/lithium
+ingots/magnetite
 ingots/manasteel
 ingots/mithril
+ingots/neodymium
+ingots/neon
 ingots/nickel
 ingots/osmium
 ingots/platinum
+ingots/quantanium
+ingots/rare_earth
+ingots/rareearthmetal
 ingots/refined_iron
+ingots/retium
+ingots/silicon
 ingots/silver
 ingots/steel
 ingots/terrasteel
 ingots/tin
 ingots/titanium
 ingots/uranium
+ingots/wakurium
 ingots/zinc
 
 

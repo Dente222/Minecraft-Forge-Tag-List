@@ -1,6 +1,10 @@
 forge:beacon_payment
+forge:coal_coke
 forge:electrona/machines_all
 forge:electrona/machines
 forge:electrona/cable
 forge:electrona/blue_cable
 forge:ar/tx_blocks
+forge:glass_panes
+forge:fabric_hemp
+forge:fibre_hemp

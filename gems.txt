@@ -1,8 +1,14 @@
+gems/aluminum
+gems/bioterium
 gems/bitripentium
 gems/dragonstone
+gems/glowtite
 gems/mana_diamond
+gems/neon
+gems/prismide
 gems/quartz
 gems/smoky_quartz
+gems/retium
 gems/ruby
 gems/sapphire
 gems/peridot

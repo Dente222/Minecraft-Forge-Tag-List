@@ -1,14 +1,22 @@
+blocks/aluminum
+blocks/bioterium
 blocks/brass
 blocks/bronze
 blocks/copper
+blocks/glowtite
 blocks/iridium
 blocks/lead
+blocks/magnetite
+blocks/neon
+blocks/quantanium
 blocks/refined_iron
+blocks/retium
 blocks/smoky_quartz
 blocks/steel
 blocks/tin
 blocks/titanium
 blocks/uranium
+blocks/wakurium
 blocks/zinc
 
 
