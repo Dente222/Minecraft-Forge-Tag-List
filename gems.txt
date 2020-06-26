@@ -1,9 +1,11 @@
 gems/adelite
 gems/aluminum
 gems/apetite
+gems/asisite
 gems/beryl
 gems/bioterium
 gems/bitripentium
+gems/bukovite
 gems/dragonstone
 gems/glowtite
 gems/mana_diamond

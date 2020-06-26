@@ -34,3 +34,4 @@ ores/vulcanite
 ores/smoky_quartz
 ores/zinc
 ores/zircon
+ores/zirconium

@@ -42,6 +42,7 @@ ingots/uranium
 ingots/wakurium
 ingots/zinc
 ingots/zircon
+ingots/zirconium
 
 
 
