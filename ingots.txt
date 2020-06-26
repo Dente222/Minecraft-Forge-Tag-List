@@ -18,6 +18,7 @@ ingots/iridium
 ingots/iron
 ingots/lead
 ingots/lithium
+ingots/magnesium
 ingots/magnetite
 ingots/manasteel
 ingots/mithril
@@ -40,6 +41,7 @@ ingots/titanium
 ingots/uranium
 ingots/wakurium
 ingots/zinc
+ingots/zircon
 
 
 

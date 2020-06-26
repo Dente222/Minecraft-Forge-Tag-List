@@ -5,6 +5,10 @@ forge:electrona/machines
 forge:electrona/cable
 forge:electrona/blue_cable
 forge:ar/tx_blocks
-forge:glass_panes
 forge:fabric_hemp
 forge:fibre_hemp
+forge:glass_panes
+forge:sol_iii/coincoppernitium
+forge:sol_iii/coingalvanium
+forge:sol_iii/coingalantium
+

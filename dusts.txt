@@ -7,6 +7,7 @@ dusts/coal_coke
 dusts/constantan
 dusts/copper
 dusts/electrum
+dusts/fluorite
 dusts/glowtite
 dusts/gold
 dusts/hop_graphite
