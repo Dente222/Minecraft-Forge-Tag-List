@@ -1,3 +1,4 @@
+ores/adamantite
 ores/adelite
 ores/aluminum
 ores/apetite
@@ -9,6 +10,7 @@ ores/cobalt
 ores/copper
 ores/crimson_iron
 ores/cinnaber
+ores/deep_iron
 ores/fluorite
 ores/galena
 ores/iridium
@@ -18,6 +20,7 @@ ores/magnetite
 ores/mithrile
 ores/monazite
 ores/nickel
+ores/orichalcum
 ores/peridot
 ores/platinum
 ores/pyrite
