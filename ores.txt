@@ -3,6 +3,7 @@ ores/adelite
 ores/aluminum
 ores/apetite
 ores/asisite
+ores/atlarus
 ores/bauxit
 ores/beryl
 ores/bukovite
@@ -13,6 +14,7 @@ ores/cinnaber
 ores/deep_iron
 ores/fluorite
 ores/galena
+ores/infuscolium
 ores/iridium
 ores/lead
 ores/magnesium

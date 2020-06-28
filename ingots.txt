@@ -1,5 +1,6 @@
 ingots/adamantite
 ingots/aluminum
+ingots/atlarus
 ingots/brass
 ingots/bronze
 ingots/bioterium
@@ -15,6 +16,7 @@ ingots/gadolinium
 ingots/glowtite
 ingots/gold
 ingots/hop_graphite
+ingots/infuscolium
 ingots/invar
 ingots/iridium
 ingots/iron
