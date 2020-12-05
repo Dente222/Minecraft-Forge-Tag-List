@@ -19,3 +19,4 @@ gems/ruby
 gems/sapphire
 gems/smoky_quartz
 gems/xenotime
+gems/fluorite
